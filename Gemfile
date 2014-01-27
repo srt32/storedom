@@ -17,3 +17,7 @@ gem 'thin'
 group :doc do
   gem 'sdoc', require: false
 end
+
+group :development, :test do
+  gem 'pry'
+end
