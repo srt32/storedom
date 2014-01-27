@@ -12,6 +12,7 @@ gem 'faker'
 gem 'haml-rails'
 gem 'therubyracer'
 gem 'less-rails-bootstrap'
+gem 'thin'
 
 group :doc do
   gem 'sdoc', require: false
